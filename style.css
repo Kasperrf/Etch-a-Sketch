@@ -2,11 +2,21 @@ body{
     margin: 0;
 }
 
+.btnGenerateDiv{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1%;
+}
+
 .container{
     display: flex;
     flex-direction: column;
-    height: 100vh;
-    width: 100vw;
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    height: 70vh;
+    width: 70vw;
 }
 
 .row{
@@ -19,7 +29,10 @@ body{
     display: flex;
     justify-content: space-evenly;
     flex-grow: 1;
-    border-style: groove;
+    border-style: solid;
     border-color: black;
 }
 
+.colHover{
+    background-color: chartreuse;
+}
