@@ -1,5 +1,5 @@
 # Etch-a-Sketch
-This assignment marks the completion of The Odin Project foundations course. I now know the foundations of html, js, css and git.
+This assignment marks the near completion of The Odin Project foundations course. I now know the foundations of html, js, css and git.
 
 Live version: https://kasperrf.github.io/Etch-a-Sketch/
 
