@@ -14,10 +14,8 @@ function redoGrid(){
     while (isNaN(userInput) | userInput > 100 | userInput < 0) {
         userInput = parseInt(prompt("Generate up to 100 grids"), 10)       
     }
-
-
-
-
+    container.innerHTML = "";    
+    createGrid(userInput)
 
 }
 
